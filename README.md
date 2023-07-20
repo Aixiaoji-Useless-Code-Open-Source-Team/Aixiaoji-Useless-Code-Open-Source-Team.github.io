@@ -11,7 +11,7 @@
 创造全是无用的、滑稽的、屎山代码的世界。
 
 ## UCOS许可证介绍页
-- 继续了解更多信息，请访问：[Aixiaoji-Useless-Code-Open-Source-Team.github.io/ucosl](Aixiaoji-Useless-Code-Open-Source-Team.github.io/ucosl)
+- 继续了解更多信息，请访问：[https://Aixiaoji-Useless-Code-Open-Source-Team.github.io/ucosl](https://Aixiaoji-Useless-Code-Open-Source-Team.github.io/ucosl)
 - 如有任何问题，请联系：yangborui@aixiaoji.tk
 
 ## Aixiaoji-Useless-Code-Open-Source-Team GitHub链接
